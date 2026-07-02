@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kunja Bihari Bagh
 
-### 🚀 Full Stack GenAI Developer | MERN Stack | AI & ML Enthusiast
+### 🚀 Full Stack GenAI Developer | Software Developer | AI & ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://kunjabiharibagh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunjabiharibagh)
